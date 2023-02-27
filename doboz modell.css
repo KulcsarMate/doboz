@@ -1,0 +1,15 @@
+body {
+    background-color: lightskyblue;
+}
+#piros {
+    background-color: red;
+    width: 150px;
+}
+#kek {
+    background-color: blue;
+    width: 75%;
+}
+#felső_doboz {
+    background-color: lightgray;
+    width: 50%;
+}
